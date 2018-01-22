@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "http://localhost:1313/"
+baseurl = "http://thaissa.me/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
