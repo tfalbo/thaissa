@@ -1,0 +1,6 @@
+[submodule "themes/hugo-freelancer-theme"]
+	path = themes/hugo-freelancer-theme
+	url = https://github.com/digitalcraftsman/hugo-freelancer-theme
+[submodule "themes/hugo-goa"]
+	path = themes/hugo-goa
+	url = https://github.com/shenoybr/hugo-goa
