@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Thaíssa Falbo"
 intro = "Full-Stack Developer"
-description = "Currently [@Udacity](http://www.udacity.com)"
+description = "[@Udacity](http://www.udacity.com)"
 authorimage = "avatar.jpeg"
 dateformat = "Jan 2, 2006"
 
