@@ -22,8 +22,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Thaíssa Falbo"
-intro = "Full-Stack Developer"
-description = "[@Udacity](http://www.udacity.com)"
+intro = "Software Engineer"
+description = "Previously: [Udacity](https://www.udacity.com), [Globo.com](https://www.globo.com)"
 authorimage = "avatar.jpeg"
 dateformat = "Jan 2, 2006"
 
