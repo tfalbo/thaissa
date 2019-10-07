@@ -52,4 +52,4 @@ highlightjs = false
     name = "blog"
     weight = 100
     identifier = "blog"
-    url = "https://medium.com/falbolous-blog"
+    url = "http://blog.thaissa.me/"
